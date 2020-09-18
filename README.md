@@ -15,7 +15,7 @@ I am a Software Engineer from Russia. I am interested in, write about and develo
 
 
 Determination of the most likely genotype and ethnicity of an individual based on the genotype of his descendants
-link(https://github.com/Vasiliy566/unknown_parent_genotype_determination/blob/master/Presentation1.pdf)
+[Full discription](https://github.com/Vasiliy566/unknown_parent_genotype_determination/blob/master/Presentation1.pdf)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=unknown_parent_genotype_determination)](https://github.com/Vasiliy566/unknown_parent_genotype_determination)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=Mutations-Priority-Prediction-ToolVCFparser)](https://github.com/Vasiliy566/Mutations-Priority-Prediction-ToolVCFparser)
