@@ -1,42 +1,13 @@
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1594729195/1500x500)][1]
-
 Hey 👋🏻,
 
-I am a Software Engineer from Austria 🇦🇹. I am interested in, write about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs and NodeJS.
-
-You can see what I am currently up to on [natterstefan.me][1].
+I am a Software Engineer from Russia. I am interested in, write about and develop (open source) software solutions for and with Python, C++, cuda and data scaience.
 
 ## 📬 Get in touch
 
-- Web: [natterstefan.me][1]
-- LinkedIn: [linkedin.com/in/natterstefan][2]
-- Twitter: [twitter.com/natterstefan][3]
-- Blogs
-  - [dev.to/natterstefan][4]
-  - [medium.com/@natterstefan][6]
-  - [hashnode.com/@natterstefan][7]
+- Web: [https://github.com/Vasiliy566][1]
+- HH: [https://spb.hh.ru/resume/d4b652ceff0587d39d0039ed1f56476e394858][2]
+- Vk: [vk.com/bioinfme][3]
 
-👉🏻👉🏻📧 Sign up for my [newsletter][5].
-
-## 🌳 My Digital Garden
-
-You can find my blog posts on [dev.to/natterstefan][4]. I write about things
-I am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
-**NodeJS**. I also do reviews of software and hardware.
-
-## 🤜🏻🤛🏻 Support Me
-
-[Buy me a coffee][8] or support my work on [Patreon][9] if you want. 🙏🏻
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Lazy loading React components with loadable components [Week 37/20 in Review]](https://dev.to/natterstefan/lazy-loading-react-components-with-loadable-components-week-37-20-in-review-47p0)
-- [Do something .new [Week 36/20 in Review]](https://dev.to/natterstefan/do-something-new-week-36-20-in-review-151n)
-- [Discover Dev News with every new tab you open - thanks to daily.dev! [Week 35/20 in Review]](https://dev.to/natterstefan/discover-dev-news-with-every-new-tab-you-open-thanks-to-daily-dev-week-35-20-in-review-5kb)
-- [Manage your Chrome tabs like a Pro with Workona [Week 34/20 in Review]](https://dev.to/natterstefan/manage-your-chrome-tabs-like-a-pro-with-workona-week-34-20-in-review-21ml)
-- [Storybook 6.0 was released [Week 33/20 in Review]](https://dev.to/natterstefan/storybook-6-0-was-released-week-33-20-in-review-3e6k)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
 
