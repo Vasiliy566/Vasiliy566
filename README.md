@@ -10,7 +10,6 @@ I am a Developer from Russia. I am interested in, write about and develop (open 
 ## &#x1f4c8; My GitHub Stats
 
 ![Vasiliy566's github stats](https://github-readme-stats.vercel.app/api?username=Vasiliy566&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiliy566&langs_count=8&hide=javascript,html,CSS,jupyter%20notebook)](https://github.com/Vasiliy566)
 
 ## Projects
