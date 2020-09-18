@@ -9,6 +9,13 @@ I am a Software Engineer from Russia. I am interested in, write about and develo
 - Vk: [vk.com/bioinfme][3]
 
 
+## My projects
+
+### Bioinformatics
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=unknown_parent_genotype_determination)](https://github.com/Vasiliy566/unknown_parent_genotype_determination)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=Mutations-Priority-Prediction-ToolVCFparser)](https://github.com/Vasiliy566/Mutations-Priority-Prediction-ToolVCFparser)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=NERPA)](https://github.com/Vasiliy566/NERPA)
+
 ## &#x1f4c8; My GitHub Stats
 
 ![Vasiliy566's github stats](https://github-readme-stats.vercel.app/api?username=Vasiliy566&show_icons=true)
