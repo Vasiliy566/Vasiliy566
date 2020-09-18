@@ -9,16 +9,20 @@ I am a Software Engineer from Russia. I am interested in, write about and develo
 - Vk: [vk.com/bioinfme][3]
 
 
-## My archived projects
+## Projects
 
 ### Bioinformatics
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=NERPA)](https://github.com/Vasiliy566/NERPA)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=Mutations-Priority-Prediction-ToolVCFparser)](https://github.com/Vasiliy566/Mutations-Priority-Prediction-ToolVCFparser)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=bioinformatics_practice2017)](https://github.com/Vasiliy566/bioinformatics_practice2017)
+
 
 ### Hackatons
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=JavathonBack123)](https://github.com/Vasiliy566/JavathonBack123)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=freeParking)](https://github.com/Vasiliy566/freeParking)
+
+### Internships and practices
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=bioinformatics_practice2017)](https://github.com/Vasiliy566/bioinformatics_practice2017)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=biocad_back)](https://github.com/Vasiliy566/biocad_back)
 
 
 ## &#x1f4c8; My GitHub Stats
