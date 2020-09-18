@@ -12,7 +12,8 @@ I am a Software Engineer from Russia. I am interested in, write about and develo
 ## &#x1f4c8; My GitHub Stats
 
 ![Vasiliy566's github stats](https://github-readme-stats.vercel.app/api?username=Vasiliy566&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiliy566&layout=compact&hide=javascript,html)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiliy566&hide=javascript,html)](https://github.com/Vasiliy566)
 
 [1]: https://github.com/Vasiliy566
 [2]: https://spb.hh.ru/resume/d4b652ceff0587d39d0039ed1f56476e394858
