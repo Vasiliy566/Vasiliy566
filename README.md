@@ -1,6 +1,4 @@
-Hey 👋🏻,
-
-I am a Software Engineer from Russia. I am interested in, write about and develop (open source) software solutions for and with Python, C++, cuda and data scaience.
+I am a Developer from Russia. I am interested in, write about and develop (open source) software solutions for and with Python, C++, cuda and data scaience.
 
 ## 📬 Get in touch
 
