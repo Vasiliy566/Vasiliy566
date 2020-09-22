@@ -3,7 +3,7 @@ I am a Developer from Russia. I am interested in, write about and develop (open 
 ## 📬 Get in touch
 
 - Web: [https://github.com/Vasiliy566][1]
-- hh: [https://spb.hh.ru/resume/d4b652ceff0587d39d0039ed1f56476e394858][2]
+- hh: [https://spb.hh.ru/resume][2]
 - Vk: [vk.com/bioinfme][3]
 
 
