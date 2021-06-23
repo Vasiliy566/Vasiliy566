@@ -9,7 +9,7 @@ I am a Developer from Russia. I am interested in, write about and develop (open 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiliy566&include_all_commits=true&langs_count=8&hide=javascript,html,CSS)](https://github.com/Vasiliy566)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiliy566&include_all_commits=false&langs_count=8&hide=javascript,html,CSS)](https://github.com/Vasiliy566)
 
 ![Vasiliy566's github stats](https://github-readme-stats.vercel.app/api?username=Vasiliy566&show_icons=true)
 
@@ -17,7 +17,6 @@ I am a Developer from Russia. I am interested in, write about and develop (open 
 
 ### Bioinformatics
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=NERPA)](https://github.com/Vasiliy566/NERPA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasiliy566&repo=Mutations-Priority-Prediction-ToolVCFparser)](https://github.com/Vasiliy566/Mutations-Priority-Prediction-ToolVCFparser)
 
 
 ### Hackatons
