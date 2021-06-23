@@ -12,7 +12,6 @@ I am a Developer from Russia. I am interested in, write about and develop (open 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiliy566&include_all_commits=true&langs_count=8&hide=javascript,html,CSS,jupyter%20notebook)](https://github.com/Vasiliy566)
 
 ![Vasiliy566's github stats](https://github-readme-stats.vercel.app/api?username=Vasiliy566&show_icons=true)
-![Vasiliy566's github stats](https://github-readme-stats.vercel.app/api?username=pohmelie&show_icons=true)
 
 ## Projects
 
